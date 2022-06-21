@@ -1,0 +1,322 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4.31rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  color: #603601;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #603601;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #603601;
+}
+
+p {
+  color: #603601;
+  font-size: 1.25rem;
+  font-weight: lighter;
+}
+a {
+  color: #603601;
+  font-family: #603601;
+  text-decoration: none;
+}
+a:hover {
+  color: #E0D8B0;
+}
+.sub-h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 28px;
+}
+
+.top-container {
+  background-color: #F4FCD9;
+  position: relative;
+  padding-top: 130px;
+  height: 510px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px
+}
+
+.sun {
+  height: 120px;
+  position: absolute;
+  right: 340px;
+  top: 290px;
+}
+
+.musical-notes-1 {
+  height: 20px;
+  position: absolute;
+  right: 260px;
+  bottom: 70px;
+}
+
+.musical-notes-2 {
+  height: 20px;
+  position: absolute;
+  right: 240px;
+  bottom: 50px;
+}
+
+.house {
+  height: 90px;
+  position: absolute;
+  left: 265px;
+  bottom: 25px;
+}
+
+.palm-tree {
+  height: 35px;
+  position: absolute;
+  right: 346px;
+  bottom: 22px;
+}
+
+.church {
+  height: 90px;
+  position: absolute;
+  right: 267px;
+  bottom: 23px;
+}
+
+.mountain-cloud-1 {
+  width: 90px;
+  position: absolute;
+  right: 313px;
+  bottom: 65px;
+}
+
+.mountain-cloud-2 {
+  width: 75px;
+  position: absolute;
+  left: 325px;
+  bottom: 110px;
+}
+
+.cat {
+  height: 25px;
+  position: absolute;
+  left: 350px;
+  bottom: 20px;
+}
+
+.backdrop {
+  left: 250px;
+  bottom: 0;
+}
+
+.middle-container {
+  background-color: #C5D8A4;
+  margin: 100 0 0 0;
+  height: 1350px;
+}
+
+.avatar {
+  height: 330px;
+  padding-top: 50px;
+}
+.hello {
+  position: relative;
+  bottom: 10px;
+}
+.intro {
+  font-size: 1.25rem;
+  margin: 0 65px 0 65px;
+  line-height: 1.5;
+  position: relative;
+  bottom: 20px;
+}
+
+.camera {
+  height: 150px;
+  position: relative;
+  left: 500px;
+  bottom: 250px;
+}
+
+.movie-camera {
+  height: 200px;
+  position: relative;
+  right: 350px;
+  bottom: 240px;
+}
+
+.desktop {
+  height: 200px;
+  position: relative;
+  bottom: 30px;
+  left: -10px;
+}
+
+.notebook {
+  height: 180px;
+  position: relative;
+  left: 5px;
+  bottom: 30px;
+}
+
+.pen {
+  position: relative;
+  height: 100px;
+  left: 280px;
+  bottom: 35px;
+}
+
+.skills-text {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  margin: 0 20px 0 20px;
+  padding-bottom: 75px;
+}
+
+.skill-row {
+  width: 50%;
+}
+
+.hobbies-food-1 {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  line-height: 1.5;
+  margin: 0 65px 0 65px;
+  padding-bottom: 20px;
+}
+
+.food-title {
+  position: relative;
+  left: 530px;
+  bottom: 730px;
+}
+
+.hobbies-food-2 {
+  font-size: 1.25rem;
+  font-weight: lighter;
+  line-height: 1.5;
+  margin: 0 115px 0 115px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  position: relative;
+  left: 530px;
+  bottom: 730px;
+}
+
+.bottom-container {
+  background-color: #BB9981;
+  padding-top: 10px;
+
+}
+
+.skill-row-2 {
+  width: 50%;
+}
+
+.national-park {
+  height: 250px;
+  padding-top: 250px;
+  position: relative;
+  left: 10px;
+  top: 5px;
+}
+
+.burrito {
+  height: 250px;
+  padding-top: 250px;
+  position: relative;
+  left: 500px;
+  bottom: 730px;
+}
+
+.footer-link {
+  margin: 15 auto 5 auto;
+}
+
+.profile {
+  border-radius: 50%;
+  height: 250px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.profile {
+  margin: auto;
+}
+
+.btn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2;
+  position: relative;
+  top: 20px;
+  background: #F4FCD9;
+  background-image: -webkit-linear-gradient(top, #F4FCD9, #C5D8A4);
+  background-image: -moz-linear-gradient(top, #F4FCD9, #C5D8A4);
+  background-image: -ms-linear-gradient(top, #F4FCD9, #C5D8A4);
+  background-image: -o-linear-gradient(top, #F4FCD9, #C5D8A4);
+  background-image: linear-gradient(to bottom, #F4FCD9, #C5D8A4);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #603601;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #E0D8B0;
+  background-image: -webkit-linear-gradient(top, #E0D8B0, #B09B71);
+  background-image: -moz-linear-gradient(top, #E0D8B0, #B09B71);
+  background-image: -ms-linear-gradient(top, #E0D8B0, #B09B71);
+  background-image: -o-linear-gradient(top, #E0D8B0, #B09B71);
+  background-image: linear-gradient(to bottom, #E0D8B0, #B09B71);
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #603601;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  position: relative;
+  top: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.5rem;
+}
+.copyright {
+  color: #E0D8B0;
+  position: relative;
+  top: 50px;
+  font-size: .75rem;
+}
+
+.bottom-links {
+  background-color: #B09B71;
+  padding-top: 30px;
+  padding-bottom: 110px;
+}
